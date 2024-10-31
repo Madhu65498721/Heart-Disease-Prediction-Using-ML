@@ -43,7 +43,7 @@ The dataset used for this project (`hdp_data.csv`) includes patient information 
 ## Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/heart-disease-prediction.git
+   git clone https://github.com/Madhu65498721/Heart-Disease-Prediction-Using-ML.git
    cd heart-disease-prediction
    ```
 
